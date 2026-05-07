@@ -1,3 +1,5 @@
+#This is just reference for the config.yaml
+
 url: "https://practice.expandtesting.com/notes/app"
 api_url: "https://practice.expandtesting.com/notes/api"
 email: "your_email_here"

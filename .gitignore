@@ -1,8 +1,4 @@
 myvenv/ 
 __pycache__/ 
-.pytest_cache/ 
-allure-results/ 
-allure-report/ 
-screenshots/ 
-logs/ 
+.pytest_cache/  
 *.pyc 

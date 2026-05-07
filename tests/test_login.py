@@ -1,3 +1,4 @@
+#UI Login
 pytest_plugins = ["fixtures.browser_fixture"]
 
 from pages.login_page import LoginPage

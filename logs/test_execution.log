@@ -1,0 +1,218 @@
+2026-05-06 12:52:01,007 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-06 12:52:02,066 - INFO - tests.test_api_notes - API login completed
+2026-05-06 12:52:02,627 - INFO - tests.test_api_notes - GET notes API called
+2026-05-06 12:52:02,627 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-06 12:57:40,961 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-06 12:57:42,137 - INFO - tests.test_api_notes - API login completed
+2026-05-06 12:57:42,757 - INFO - tests.test_api_notes - GET notes API called
+2026-05-06 12:57:42,757 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-06 13:03:30,223 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-06 13:03:31,050 - INFO - tests.test_api_notes - API login completed
+2026-05-06 13:03:31,738 - INFO - tests.test_api_notes - GET notes API called
+2026-05-06 13:03:31,738 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-06 13:19:37,026 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-06 13:19:38,228 - INFO - tests.test_api_notes - API login completed
+2026-05-06 13:19:38,641 - INFO - tests.test_api_notes - GET notes API called
+2026-05-06 13:19:38,641 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-06 13:28:55,883 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-06 13:28:56,735 - INFO - tests.test_api_notes - API login completed
+2026-05-06 13:28:57,174 - INFO - tests.test_api_notes - GET notes API called
+2026-05-06 13:28:57,174 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-06 13:35:33,981 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-06 13:35:35,114 - INFO - tests.test_api_notes - API login completed
+2026-05-06 13:35:36,052 - INFO - tests.test_api_notes - GET notes API called
+2026-05-06 13:35:36,052 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-06 14:14:14,247 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-06 14:14:14,792 - INFO - tests.test_api_notes - API login completed
+2026-05-06 14:14:15,137 - INFO - tests.test_api_notes - GET notes API called
+2026-05-06 14:14:15,137 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-06 14:37:04,755 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-06 14:37:05,548 - INFO - tests.test_api_notes - API login completed
+2026-05-06 14:37:05,967 - INFO - tests.test_api_notes - GET notes API called
+2026-05-06 14:37:05,968 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-06 14:43:17,293 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-06 14:43:18,044 - INFO - tests.test_api_notes - API login completed
+2026-05-06 14:43:18,386 - INFO - tests.test_api_notes - GET notes API called
+2026-05-06 14:43:18,386 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-06 14:43:45,509 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-06 14:43:46,177 - INFO - tests.test_api_notes - API login completed
+2026-05-06 14:43:46,522 - INFO - tests.test_api_notes - GET notes API called
+2026-05-06 14:43:46,522 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-06 14:44:24,394 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-06 14:44:25,112 - INFO - tests.test_api_notes - API login completed
+2026-05-06 14:44:25,491 - INFO - tests.test_api_notes - GET notes API called
+2026-05-06 14:44:25,493 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-06 14:48:14,358 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-06 14:48:14,889 - INFO - tests.test_api_notes - API login completed
+2026-05-06 14:48:15,253 - INFO - tests.test_api_notes - GET notes API called
+2026-05-06 14:48:15,253 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-06 15:06:00,050 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-06 15:06:00,802 - INFO - tests.test_api_notes - API login completed
+2026-05-06 15:06:01,564 - INFO - tests.test_api_notes - GET notes API called
+2026-05-06 15:06:01,564 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-06 15:30:38,726 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-06 15:30:39,212 - INFO - tests.test_api_notes - API login completed
+2026-05-06 15:30:39,537 - INFO - tests.test_api_notes - GET notes API called
+2026-05-06 15:30:39,537 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-06 15:35:15,020 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-06 15:35:15,772 - INFO - tests.test_api_notes - API login completed
+2026-05-06 15:35:16,132 - INFO - tests.test_api_notes - GET notes API called
+2026-05-06 15:35:16,133 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-06 15:37:16,799 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-06 15:37:17,297 - INFO - tests.test_api_notes - API login completed
+2026-05-06 15:37:17,641 - INFO - tests.test_api_notes - GET notes API called
+2026-05-06 15:37:17,641 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-06 15:40:54,371 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-06 15:40:54,910 - INFO - tests.test_api_notes - API login completed
+2026-05-06 15:40:55,246 - INFO - tests.test_api_notes - GET notes API called
+2026-05-06 15:40:55,246 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-06 15:42:56,906 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-06 15:42:57,711 - INFO - tests.test_api_notes - API login completed
+2026-05-06 15:42:58,096 - INFO - tests.test_api_notes - GET notes API called
+2026-05-06 15:42:58,096 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-06 15:55:10,212 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-06 15:55:11,122 - INFO - tests.test_api_notes - API login completed
+2026-05-06 15:55:11,764 - INFO - tests.test_api_notes - GET notes API called
+2026-05-06 15:55:11,764 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-06 15:57:07,891 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-06 15:57:08,578 - INFO - tests.test_api_notes - API login completed
+2026-05-06 15:57:09,205 - INFO - tests.test_api_notes - GET notes API called
+2026-05-06 15:57:09,205 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 10:21:34,623 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 10:21:35,204 - INFO - tests.test_api_notes - API login completed
+2026-05-07 10:21:35,750 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 10:21:35,750 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 10:27:25,968 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 10:27:27,886 - INFO - tests.test_api_notes - API login completed
+2026-05-07 10:27:28,415 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 10:27:28,417 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 10:33:38,330 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 10:33:39,178 - INFO - tests.test_api_notes - API login completed
+2026-05-07 10:33:39,503 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 10:33:39,503 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 10:37:12,646 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 10:37:13,691 - INFO - tests.test_api_notes - API login completed
+2026-05-07 10:37:14,133 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 10:37:14,133 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 11:01:45,518 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 11:01:46,114 - INFO - tests.test_api_notes - API login completed
+2026-05-07 11:01:46,719 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 11:01:46,719 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 11:04:37,373 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 11:04:38,543 - INFO - tests.test_api_notes - API login completed
+2026-05-07 11:04:38,921 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 11:04:38,923 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 11:06:54,361 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 11:06:55,451 - INFO - tests.test_api_notes - API login completed
+2026-05-07 11:06:56,526 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 11:06:56,527 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 11:13:16,099 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 11:13:17,071 - INFO - tests.test_api_notes - API login completed
+2026-05-07 11:13:17,732 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 11:13:17,732 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 11:19:03,634 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 11:19:04,191 - INFO - tests.test_api_notes - API login completed
+2026-05-07 11:19:04,554 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 11:19:04,554 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 11:20:17,277 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 11:20:18,013 - INFO - tests.test_api_notes - API login completed
+2026-05-07 11:20:18,894 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 11:20:18,895 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 11:21:26,928 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 11:21:27,499 - INFO - tests.test_api_notes - API login completed
+2026-05-07 11:21:27,885 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 11:21:27,885 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 11:25:54,478 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 11:25:55,144 - INFO - tests.test_api_notes - API login completed
+2026-05-07 11:25:55,510 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 11:25:55,510 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 11:30:53,008 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 11:30:53,880 - INFO - tests.test_api_notes - API login completed
+2026-05-07 11:30:54,235 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 11:30:54,235 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 11:36:27,152 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 11:36:28,049 - INFO - tests.test_api_notes - API login completed
+2026-05-07 11:36:28,557 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 11:36:28,557 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 11:49:25,879 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 11:49:26,735 - INFO - tests.test_api_notes - API login completed
+2026-05-07 11:49:27,075 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 11:49:27,075 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 12:00:57,688 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 12:00:58,709 - INFO - tests.test_api_notes - API login completed
+2026-05-07 12:00:59,188 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 12:00:59,190 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 12:03:53,216 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 12:03:54,136 - INFO - tests.test_api_notes - API login completed
+2026-05-07 12:03:55,100 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 12:03:55,100 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 12:07:52,620 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 12:07:54,351 - INFO - tests.test_api_notes - API login completed
+2026-05-07 12:07:55,264 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 12:07:55,264 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 12:27:07,819 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 12:27:28,019 - INFO - tests.test_api_notes - API login completed
+2026-05-07 12:27:39,411 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 12:41:02,039 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 12:41:02,985 - INFO - tests.test_api_notes - API login completed
+2026-05-07 12:41:03,697 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 12:41:03,697 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 12:44:41,972 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 12:44:43,850 - INFO - tests.test_api_notes - API login completed
+2026-05-07 12:44:44,825 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 12:44:44,826 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 14:04:46,974 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 14:04:47,490 - INFO - tests.test_api_notes - API login completed
+2026-05-07 14:04:47,894 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 14:04:47,900 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 14:08:38,602 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 14:08:42,377 - INFO - tests.test_api_notes - API login completed
+2026-05-07 14:08:43,018 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 14:08:43,018 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 14:19:16,924 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 14:19:17,718 - INFO - tests.test_api_notes - API login completed
+2026-05-07 14:19:18,066 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 14:19:18,066 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 14:27:04,684 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 14:27:11,384 - INFO - tests.test_api_notes - API login completed
+2026-05-07 14:27:12,985 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 14:27:12,985 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 14:51:43,840 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 14:51:48,499 - INFO - tests.test_api_notes - API login completed
+2026-05-07 14:51:57,441 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 14:59:47,719 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 14:59:56,729 - INFO - tests.test_api_notes - API login completed
+2026-05-07 15:00:10,250 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 15:00:10,250 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 15:56:09,780 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 15:56:16,186 - INFO - tests.test_api_notes - API login completed
+2026-05-07 15:56:17,864 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 15:56:17,864 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 16:14:18,471 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 16:14:21,121 - INFO - tests.test_api_notes - API login completed
+2026-05-07 16:14:29,638 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 16:14:29,638 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 16:24:33,688 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 16:24:34,601 - INFO - tests.test_api_notes - API login completed
+2026-05-07 16:24:35,212 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 16:24:35,216 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 16:29:15,650 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 16:29:16,301 - INFO - tests.test_api_notes - API login completed
+2026-05-07 16:29:17,223 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 16:29:17,224 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 17:58:59,390 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 17:59:11,042 - INFO - tests.test_api_notes - API login completed
+2026-05-07 17:59:16,153 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 17:59:16,153 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 18:08:01,609 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 18:08:05,947 - INFO - tests.test_api_notes - API login completed
+2026-05-07 18:08:07,150 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 18:08:07,163 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 18:12:54,780 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 18:13:00,398 - INFO - tests.test_api_notes - API login completed
+2026-05-07 18:13:09,909 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 18:13:09,909 - INFO - tests.test_api_notes - API GET notes test completed successfully
+2026-05-07 18:24:10,937 - INFO - tests.test_api_notes - Starting API GET notes test
+2026-05-07 18:24:23,741 - INFO - tests.test_api_notes - API login completed
+2026-05-07 18:24:33,179 - INFO - tests.test_api_notes - GET notes API called
+2026-05-07 18:24:33,179 - INFO - tests.test_api_notes - API GET notes test completed successfully

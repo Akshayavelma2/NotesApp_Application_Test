@@ -1,3 +1,5 @@
+#it tests the product page is loaded or not
+
 from pages.login_page import LoginPage
 from config.environment import config
 

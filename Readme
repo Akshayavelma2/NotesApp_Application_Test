@@ -1,0 +1,219 @@
+This project is part of the Enterprise Automation level Hybrid Automation Framework, which is based on:
+Selenium with Python
+Pytest Framework
+Requests Library
+Allure Reporting
+Jenkins CI/CD
+Selenium Grid
+Docker
+pytest is a tool for parallel testing: pytest-xdist.
+Both are automated via the framework:
+UI Testing
+API Testing
+Hybrid End-to-End Testing
+Application Under Test:
+UI: [https://practice.expandtesting.com/notes/app]
+API: [https://practice.expandtesting.com/notes/api/api-docs/]
+# Framework Features
+# UI Automation
+Selenium WebDriver
+Page Object Model (POM)
+Explicit Waits
+JavaScript Executor
+If it does not capture any screen shot.Not taking an image of the screen.
+Reusable Components
+Error Handling Utilities
+# API Automation
+Requests Library
+Reusable API Client
+Centralized Configuration Management
+API Validation
+Response Validation
+Performance Validation
+# Hybrid E2E Automation
+# UI → API Validation
+Create note via UI
+To validate the same note in the API response.
+# API → UI Validation
+Delete an item from a note list with the API.
+No more Jr. - Validate note in UI.
+# Advanced Features
+pytest-xdist is a parallel tool for tests – it is a plugin.
+Use Docker to run Selenium Grid.Utilize Selenium Grid with Docker.
+Jenkins CI/CD Integration
+Allure Reporting
+HTML Reporting
+Logging
+Agentic Automation Utilities
+MCP Support Layer
+Performance Testing
+# Project Structure
+project/
+│
+├── api/
+├── assets/
+├── config/
+├── docs/
+├── fixtures/
+├── logs/
+├── mcp/
+├── pages/
+├── screenshots/
+├── tests/
+├── utils/
+├── allure-results/
+├── allure-report/
+├── docker-compose.yml
+├── Jenkinsfile
+├── requirements.txt
+└── report.html
+# Configuration Management
+YAML configuration is assumed as the central configuration to the Framework.
+Example:
+url: "https://practice.expandtesting.com/notes/app/login"
+api_url: "https://practice.expandtesting.com/notes/api"
+email: "your_email"
+password: "your_password"
+grid_url: "http://localhost:4444/wd/hub"
+run_on_grid: true
+# Setup Instructions
+# Step 1 — Clone Repository
+git clone https://github.com/Akshayavelma2/NotesApp_Appliction_Testing.git
+Click on Step 2 button.Click on Step 2 — Go To Project Folder.
+cd NotesApp_Appliction_Testing
+Now we will be creating a virtual environment.Let's create a virtual environment now.
+python -m venv myvenv
+Start the virtual environment.Start the virtual environment.Turn on the Virtual Environment.
+myvenv\Scripts\activate
+# Install Dependencies
+pip install -r requirements.txt
+# Test Execution
+# Execute Complete Framework
+pytest
+# Parallel Execution
+pytest -n 2
+# Execute Specific Test
+pytest tests/test_login.py
+
+# Allure Reporting
+# Generate Allure Results
+
+
+pytest tests --alluredir=allure-results
+
+
+# Generate Report
+
+allure generate allure-results -o allure-report --clean
+# Open Report
+
+allure open allure-report
+
+# Selenium Grid Execution
+# Start Selenium Grid
+
+
+docker run -d ^
+--name selenium-grid ^
+-p 4444:4444 ^
+-p 7900:7900 ^
+--shm-size="2g" ^
+selenium/standalone-chrome:latest
+
+# Verify Grid
+
+Open:
+
+http://localhost:4444
+
+Perform tests on a grid.Perform tests on a grid.
+pytest -n 2
+
+# Jenkins CI/CD
+
+Pipeline Includes:
+
+1. Checkout Source Code
+2. Install Dependencies
+3. Parallel Test Execution
+4. Generate Reports
+5. Archive Artifacts
+
+# Negative Test Coverage
+# UI Negative Testing
+
+Invalid Login
+Empty Login Fields
+Invalid Email Format
+Empty Note Creation
+
+# API Negative Testing
+
+Invalid Password
+Invalid Email
+Missing Title
+Missing Description
+Empty Payload
+Invalid Endpoint
+
+# Performance Testing
+
+Framework includes:
+
+Analyze response time of APIs
+Performance: User Experience Page Load Timing
+This is because of the DOM Ready State Validation.
+Performance Trend Logging
+# Agentic Automation
+
+Utilities Included:
+utils/
+│
+├── intelligent_wait.py
+├── retry_mechanism.py
+├── self_healing.py
+└── rerun_logic.py
+
+
+Features:
+
+Intelligent Waiting System
+Auto Retry Mechanism
+Self-Healing Locator Concept
+Decision-Based Rerun Logic
+
+# MCP Support Layer
+
+MCP Framework Support consists of:
+
+Create test data based on LLM techniques.Create test data with LLM techniques.
+Failure analysis support
+Locator improvement suggestions
+
+Files:
+
+mcp/
+│
+└── mcp_helper.py
+
+# Reporting
+
+Framework Supports:
+
+Allure Reports
+HTML Reports
+Screenshot Attachments
+Logs
+Performance Logs
+
+# Technologies Used
+
+Python
+Selenium
+Pytest
+Requests
+Allure
+Jenkins
+Docker
+Selenium Grid
+GitHub

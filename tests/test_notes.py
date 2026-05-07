@@ -1,24 +1,41 @@
-pytest_plugins = ["fixtures.browser_fixture"]
+#creates note using ui and verify using api
+
+import time
 
 from pages.login_page import LoginPage
 from pages.home_page import HomePage
 from api.api_client import APIClient
 from config.environment import config
 
+#creates using ui andverify by api
 def test_create_note_ui_to_api(driver):
 
-    title = "Automation Note"
-    description = "Created using Selenium and verified using API"
+    unique = str(int(time.time()))
+
+    title = "Automation Note " + unique
+
+    description = (
+        "Created using Selenium and verified using API"
+    )
 
     login_page = LoginPage(driver)
-    login_page.login(config["email"], config["password"])
+
+    login_page.login(
+        config["email"],
+        config["password"]
+    )
 
     home_page = HomePage(driver)
-    home_page.create_note(title, description)
+
+    home_page.create_note(
+        title,
+        description
+    )
 
     assert home_page.is_note_visible(title)
 
     api = APIClient()
+
     api.login()
 
     response = api.get_notes()
@@ -30,7 +47,13 @@ def test_create_note_ui_to_api(driver):
     note_found = False
 
     for note in notes:
-        if note["title"] == title and note["description"] == description:
+
+        if (
+            note["title"] == title
+            and
+            note["description"] == description
+        ):
+
             note_found = True
             break
 

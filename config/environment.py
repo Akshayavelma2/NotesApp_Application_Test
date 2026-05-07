@@ -1,3 +1,6 @@
+#This file reads the config.yaml file and it allows us to for configuration of the Cases.
+
+
 import yaml
 
 def load_config():

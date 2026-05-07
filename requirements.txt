@@ -1,6 +1,7 @@
-pytest
-selenium
-requests
-pytest-html
-pytest-xdist
-webdriver-manager
+
+pytest #for testing
+selenium #for browser automation
+requests #for api testing
+pytest-html #for html report generation
+pytest-xdist #for parallel test execution
+webdriver-manager #for managing browser drivers

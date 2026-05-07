@@ -2,7 +2,7 @@ import requests
 from config.environment import config
 from api.api_client import APIClient
 
-
+#tis ave negative test cses
 def get_auth_headers():
 
     api = APIClient()
@@ -12,7 +12,7 @@ def get_auth_headers():
         "x-auth-token": api.token
     }
 
-
+#invalid password
 def test_api_login_invalid_password():
 
     url = f'{config["api_url"]}/users/login'
@@ -26,7 +26,7 @@ def test_api_login_invalid_password():
 
     assert response.status_code in [400, 401]
 
-
+#invalid email
 def test_api_login_invalid_email():
 
     url = f'{config["api_url"]}/users/login'
@@ -40,7 +40,7 @@ def test_api_login_invalid_email():
 
     assert response.status_code in [400, 401]
 
-
+#creating node without title
 def test_create_note_without_title():
 
     payload = {
@@ -56,7 +56,7 @@ def test_create_note_without_title():
 
     assert response.status_code in [400, 422]
 
-
+#it creates note witout title & description
 def test_create_note_empty_payload():
 
     response = requests.post(
@@ -67,7 +67,7 @@ def test_create_note_empty_payload():
 
     assert response.status_code in [400, 422]
 
-
+#fails when no token
 def test_create_note_without_token():
 
     payload = {

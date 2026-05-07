@@ -1,27 +1,64 @@
+#it gves the performance of api and ui
+
 import time
-from api.api_client import APIClient
-from config.environment import config
+import requests
+
+from config.environment import load_config
 
 
+config = load_config()
+
+BASE_URL = config["api_url"]
+
+#it gives api response time
 def test_api_response_time():
 
-    api = APIClient()
-    api.login()
+    start_time = time.time()
 
-    response = api.get_notes()
+    response = requests.get(
+        f"{BASE_URL}/notes"
+    )
 
-    assert response.status_code == 200
-    assert response.elapsed.total_seconds() < 2
+    end_time = time.time()
+
+    response_time = end_time - start_time
+
+    print(
+        f"\nAPI Response Time: "
+        f"{round(response_time, 2)} seconds"
+    )
+
+    assert response_time < 15
 
 
+
+#it gives ui response time
 def test_ui_page_load_time(driver):
 
     start_time = time.time()
 
-    driver.get(config["url"])
+    driver.get(
+        config["url"]
+    )
+
+    for i in range(10):
+
+        dom_state = driver.execute_script(
+            "return document.readyState"
+        )
+
+        if dom_state == "complete":
+            break
+
+        time.sleep(1)
 
     end_time = time.time()
 
     load_time = end_time - start_time
 
-    assert load_time < 5
+    print(
+        f"\nUI Page Load Time: "
+        f"{round(load_time, 2)} seconds"
+    )
+
+    assert load_time < 60

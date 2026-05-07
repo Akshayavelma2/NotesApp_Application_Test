@@ -11,7 +11,7 @@ def get_auth_headers():
         "x-auth-token": api.token
     }
 
-
+#invalid password
 def test_api_login_invalid_password():
 
     url = f'{config["api_url"]}/users/login'
@@ -25,7 +25,7 @@ def test_api_login_invalid_password():
 
     assert response.status_code in [400, 401]
 
-
+#invalid email
 def test_api_login_invalid_email():
 
     url = f'{config["api_url"]}/users/login'
@@ -39,7 +39,7 @@ def test_api_login_invalid_email():
 
     assert response.status_code in [400, 401]
 
-
+#witout title
 def test_create_note_without_title():
 
     payload = {
@@ -55,7 +55,7 @@ def test_create_note_without_title():
 
     assert response.status_code in [400, 422]
 
-
+#it creates note witout title & description
 def test_create_note_without_description():
 
     payload = {

@@ -1,0 +1,4 @@
+[32mINFO    [0m tests.test_api_notes:test_api_notes.py:11 Starting API GET notes test
+[32mINFO    [0m tests.test_api_notes:test_api_notes.py:16 API login completed
+[32mINFO    [0m tests.test_api_notes:test_api_notes.py:21 GET notes API called
+[32mINFO    [0m tests.test_api_notes:test_api_notes.py:30 API GET notes test completed successfully

@@ -1,0 +1,1 @@
+Suggested Locator Strategy: Use ID or CSS Selector for stability
